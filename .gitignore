@@ -1,0 +1,12 @@
+data/raw_videos/
+data/test/
+data/train/
+data/valid/
+
+models/__pycache__/
+models/bytetrack_tracked_videos/
+models/deepsort_tracked_videos/
+
+models/vit_runs/vit_200.pth
+models/vit_scratch_runs/vit_scratch_200.pth
+

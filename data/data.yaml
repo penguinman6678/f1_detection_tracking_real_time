@@ -1,0 +1,13 @@
+train: ../data/train/images
+val: ../data/valid/images
+test: ../data/test/images
+
+nc: 1
+names: ["Car"]
+
+roboflow:
+  workspace: yoav-fogel-yia3f
+  project: f1-car-recognition
+  version: 10
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yoav-fogel-yia3f/f1-car-recognition/dataset/10
